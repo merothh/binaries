@@ -6,7 +6,7 @@
 # Version 0.3
 #
 
-source ~/bin/helper
+source ~/binaries/helper
 
 # Aliases
 cai='git commit --amend --no-edit'

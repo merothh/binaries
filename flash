@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source ~/bin/helper
+source ~/binaries/helper
 
 header "Flash boot/dtbo? (y/n)"
 read -r option

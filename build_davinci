@@ -3,7 +3,7 @@
 #
 
 sync=$1
-source ~/bin/helper
+source ~/binaries/helper
 
 source build/envsetup.sh
 
@@ -62,6 +62,6 @@ success
 if [ -s $sync ]; then
 build
 else
-source ~/bin/synconly
+source ~/binaries/synconly
 build
 fi

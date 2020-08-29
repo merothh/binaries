@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source ~/bin/helper
+source ~/binaries/helper
 source build/envsetup.sh
 
 function sync() {
